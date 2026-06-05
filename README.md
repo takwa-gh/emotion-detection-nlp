@@ -33,5 +33,5 @@ from Reddit comments using classical NLP and ML techniques.
 > F1-macro is used as the primary metric due to heavy class imbalance.
 
 ## Tech Stack
-Python Scikit-learn NLTK Pandas Seaborn Matplotlib TF-IDF
+Python Scikit-learn Pandas Seaborn Matplotlib TF-IDF
 
